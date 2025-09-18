@@ -10,7 +10,7 @@ Convert your PDF files into MP3 audiobooks with ease! This Python script extract
 - Easy to use with minimal setup.
 
 ## Demo
-```bash
+
 python main.py
 Input PDF: user_sample.pdf
 
@@ -63,16 +63,10 @@ The free tier of VoiceRSS allows up to 2000 characters per request. For longer P
 
 Ensure your PDF contains selectable text (not scanned images) for proper extraction.
 
-Contributing
-Feel free to submit issues or pull requests for enhancements. Suggestions for adding support for longer PDFs or multiple pages are welcome!
-
-License
-This project is licensed under the MIT License.
-
 css
 Copy code
 
-I can also generate a **`requirements.txt`** for you so users can install dependencies with a single command:  
+
 
 requests
 PyPDF2
@@ -80,16 +74,5 @@ PyPDF2
 yaml
 Copy code
 
----
-
-If you want, I can **also generate the ready-to-upload GitHub folder structure** including `main.py`, `README.md`, and `requirements.txt` so you can push it immediately.  
-
-Do you want me to do that?
 
 
-
-
-
-
-
-Ask ChatGPT
